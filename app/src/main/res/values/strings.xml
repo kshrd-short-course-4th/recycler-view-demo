@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="news_content">that have a consistent look across the platform. CardView widgets can have shadows and rounded corners.</string>
+    <string name="news_title">Top 10 Resort in cambodia</string>
+</resources>
